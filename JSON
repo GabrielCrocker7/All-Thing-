@@ -1,0 +1,86 @@
+{
+  "name": "All Thing",
+  "author": "Gabriel Crocker",
+  "nes": [
+    {
+      "name": "Castlevania",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/5/51/Castlevania_1_cover.png",
+      "link": "https://www.nesfiles.com/NES/Castlevania/Castlevania.nes"
+    },
+    {
+      "name": "Castlevania II",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Castlevania_2_cover.png/220px-Castlevania_2_cover.png",
+      "link": "https://www.nesfiles.com/NES/Castlevania_II/Castlevania2.nes"
+    },
+    {
+      "name": "Final Fantasy",
+      "icon": "https://i2.wp.com/i.pinimg.com/originals/8a/00/14/8a0014049767631e66910653cd4b573c.png",
+      "link": "https://www.nesfiles.com/NES/Final_Fantasy/final_fantasy.nes"
+    },
+    {
+      "name": "Megaman",
+      "icon": "https://tcrf.net/images/e/e0/Mega_Man_1-title.png",
+      "link": "https://www.nesfiles.com/NES/Megaman/Megaman.nes"
+    },
+    {
+      "name": "Ninja Gaiden",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ninja_Gaiden_arcade_flyer.png/220px-Ninja_Gaiden_arcade_flyer.png",
+      "link": "https://www.nesfiles.com/NES/Ninja_Gaiden/Ninja_gaiden.nes"
+    },
+    {
+      "name": "Ninja Gaiden II",
+      "icon": "https://www.pngkey.com/png/detail/547-5472517_nes-ninja-gaiden-2-retail-game-cover-to.png",
+      "link": "https://www.nesfiles.com/NES/Ninja_Gaiden_II/Ninja_gaiden2.nes"
+    },
+    {
+      "name": "Ninja Gaiden III",
+      "icon": "https://i.pinimg.com/originals/97/9a/90/979a9036a77ffd83eb77c798ac903368.jpg",
+      "link": "https://www.nesfiles.com/NES/Ninja_Gaiden_III/Ninja_gaiden3.nes"
+    },
+    {
+      "name": "Adventures of Lolo 2",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Adventures_of_Lolo_2_Cover.png/220px-Adventures_of_Lolo_2_Cover.png",
+      "link": "https://www.nesfiles.com/NES/Adventures_of_Lolo_2/adventures_of_Lolo2.nes"
+    },
+    {
+      "name": "Adventures of Lolo 3",
+      "icon": "https://cdn.wikimg.net/en/strategywiki/images/c/c7/BoxArtLolo3%28US%29.jpg",
+      "link": "https://www.nesfiles.com/NES/Adventures_of_Lolo_3/adventures_of_Lolo3.nes"
+    },
+    {
+      "name": "Dragon Warrior",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Dragon_Warrior.jpg/220px-Dragon_Warrior.jpg",
+      "link": "https://www.nesfiles.com/NES/Dragon_Warrior/Dragon_warrior.nes"
+    },
+    {
+      "name": "Dragon Warrior II",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Dragon_Warrior_II.jpg/220px-Dragon_Warrior_II.jpg",
+      "link": "https://www.nesfiles.com/NES/Dragon_Warrior_II/Dragon_warrior2.nes"
+    },
+    {
+      "name": "Battletoads",
+      "icon": "https://i.ebayimg.com/images/g/r4oAAOSwxYxUyk88/s-l300.jpg",
+      "link": "https://www.nesfiles.com/NES/Battletoads/Battle_toads.nes"
+    },
+    {
+      "name": "Battletoads vs. Double Dragon",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/BattleToadsDoubleDragon.jpg/220px-BattleToadsDoubleDragon.jpg",
+      "link": "https://www.nesfiles.com/NES/Battletoads_vs_Double_Dragon/Battletoads_and_double_dragon.nes"
+    },
+    {
+      "name": "Contra",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Contra_cover.jpg/220px-Contra_cover.jpg",
+      "link": "https://www.nesfiles.com/NES/Contra/contra.nes"
+    },
+    {
+      "name": "Bomberman",
+      "icon": "https://oldgameshelf.com/roms/nes/bomberman/images/nes_bomberman_1.jpg",
+      "link": "https://www.nesfiles.com/NES/Bomberman/Bomber_man.nes"
+    },
+    {
+      "name": "Bomberman 2",
+      "icon": "https://www.retrogamecases.com/wp-content/uploads/nes_bomberman21.jpg",
+      "link": "https://www.nesfiles.com/NES/Bomberman_2/Bomber_man2.nes"
+    }
+  ]
+}
